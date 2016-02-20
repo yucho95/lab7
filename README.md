@@ -1,4 +1,4 @@
-lab8
+lab7
 ====
 
-Lab 8: analytics
+Lab 7: analytics
